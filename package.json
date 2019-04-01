@@ -1,0 +1,28 @@
+{
+  "name": "eve-proxy",
+  "version": "0.0.1",
+  "description": "Configurable HTTP/HTTPS Proxy",
+  "main": "eve.js",
+  "scripts": {
+    "test": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eve-proxy/eve.git"
+  },
+  "keywords": [
+    "HTTP",
+    "HTTPS",
+    "proxy"
+  ],
+  "author": "Phil Egli",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/eve-proxy/eve/issues"
+  },
+  "homepage": "https://github.com/eve-proxy/eve#readme",
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-google": "^0.12.0"
+  }
+}
