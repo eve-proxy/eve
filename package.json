@@ -4,6 +4,7 @@
   "description": "Configurable HTTP/HTTPS Proxy",
   "main": "eve.js",
   "scripts": {
+    "start": "node eve.js",
     "test": "eslint ."
   },
   "repository": {
